@@ -26,7 +26,7 @@
                                         <a class="nav-link" href="#">¡Nuestros trabajos!</a>
                                     </li>
                                     <li>
-                                        <a class="nav-link" href="form.php">¡Contacta con nosotros!</a>
+                                        <a class="nav-link" href="vista/form.php">¡Contacta con nosotros!</a>
                                     </li>
                                 </ul>
                             </div>
