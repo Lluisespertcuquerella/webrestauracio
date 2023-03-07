@@ -17,10 +17,16 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Inicio</a>
+                                    </li>
                                         <a class="nav-link" href="#">¿Quienes somos?</a>
+                                    <li>
+                                    </li>
                                         <a class="nav-link" href="#">¿A que nos dedicamos?</a>
+                                    <li>
                                         <a class="nav-link" href="#">¡Nuestros trabajos!</a>
-                                        <a class="nav link" href="#">¡Contacta con nosotros!</a>
+                                    </li>
+                                    <li>
+                                        <a class="nav-link" href="#">¡Contacta con nosotros!</a>
                                     </li>
                                 </ul>
                             </div>
