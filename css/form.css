@@ -3,7 +3,7 @@
 
     font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
 
-    color: blueviolet;
+    color: orange;
 
     font-size: 1em;
 
@@ -16,5 +16,9 @@
 }
 
 .fondoFormulari{
-    background-color:  #FF5A04;
+    background-color:  #689F38;
+}
+
+a:hover{
+    background-color: red;
 }
