@@ -24,7 +24,7 @@
                                     </li>
                                         <a class="nav-link colorLetras botonRedondo" href="#">¿A que nos dedicamos?</a>
                                     <li>
-                                        <a class="nav-link colorLetras botonRedondo" href="#">¡Nuestros trabajos!</a>
+                                        <a class="nav-link colorLetras botonRedondo" href="vista/trabajos.php">¡Nuestros trabajos!</a>
                                     </li>
                                     <li>
                                         <a class="nav-link colorLetras botonRedondo" href="vista/form.php">¡Contacta con nosotros!</a>
